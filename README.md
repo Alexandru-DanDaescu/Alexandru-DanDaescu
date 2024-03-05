@@ -2,7 +2,7 @@
 - 🌱  I’m currently learning Java, databases and Spring
 - 📫 How to reach me : alex.daescu@yahoo.com
 - My linkedIn account : https://www.linkedin.com/in/alexandru-daescu-687368256/
-- Language and Tools : Java, PostGreSQL, Spring Boot, Maven, Git
+- Language and Tools : Java, PostGreSQL, Spring Boot, Maven, Git, Mockito, JUnit
 
 
 <!---
